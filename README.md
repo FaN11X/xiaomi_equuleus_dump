@@ -1,10 +1,8 @@
 # xiaomi_equuleus_dump
- Xiaomi Mi 8 Pro (Global Edition) https://c.mi.com/thread-2117324-1-0.html
- 
+ ##Xiaomi MI8 Pro (UD) Global Edition (equuleus) 
  
 This is a full block level partition dump of system and vendor partions for the Xiaomi MI 8 Pro (Global Edition ROM) V9.4.26
 
-Mi 8 Pro (UD) Global Edition
 
 ### Recovery 1.9G
 https://bigota.d.miui.com/9.4.26/miui_MI8UDGlobal_9.4.26_ae4687849a_9.0.zip
